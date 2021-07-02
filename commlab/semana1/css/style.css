@@ -1,0 +1,57 @@
+body{
+  background:#ffffff
+}
+
+.parrafos{
+  width: 900px;
+  height: 180px;
+  background:  #cccccc;
+  margin: auto;
+}
+
+.parrafo2{
+  color:  #000000;
+}
+.parrafo3{
+  color: #000000;
+}
+.parrafo4{
+  color: #000000;
+}
+div#header{
+  background-color:  #d9d9d9
+}
+
+div#body{
+  background-color: 	#d9d9d9;
+  width: 1200px;
+  height: 1200px;
+  margin: auto;
+}
+
+.rural{
+  background: #ffffff;
+  margin: auto;
+  width: 500px;
+  height: 360px;
+}
+.galeria{
+  margin:10px;
+  float: left;
+  width: 280px;
+  height: 500px;
+  background:  #ffffff;
+
+}
+.galeria img{
+  width: 200px;
+  height: auto;
+  margin: 10px 40px;
+
+}
+.pie{
+  text-align: center;
+  width: 200px;
+  margin: 10px 40px;
+  color: #000000;
+}
