@@ -173,12 +173,12 @@ margin-right: auto;
 
 }
 .todo{
-  width: 1100px;
+  width: 100%;
 float: center;
   display: inline-flex;
   justify-content: center;
-  margin-right: 200px;
-  margin-left:  200px
+
+
 }
 
 .zoom{
@@ -208,12 +208,10 @@ float: center;
 }
 
 .todo2{
-  width: 1100px;
-float: center;
-  display: inline-flex;
-  justify-content: center;
-  margin-right: 200px;
-  margin-left:  200px
+  width:  100%;
+  float: center;
+    display: inline-flex;
+    justify-content: center;
 }
 
 
@@ -245,12 +243,10 @@ float: center;
 
 
 .todo3{
-  width: 1100px;
-float: center;
-  display: inline-flex;
-  justify-content: center;
-  margin-right: 200px;
-  margin-left:  200px
+  width:  100%;
+  float: center;
+    display: inline-flex;
+    justify-content: center;
 }
 
 .zoom6{
@@ -279,12 +275,10 @@ float: center;
 }
 
 .todo4{
-  width: 1100px;
-float: center;
-  display: inline-flex;
-  justify-content: center;
-  margin-right: 200px;
-  margin-left:  200px
+  width:  100%;
+  float: center;
+    display: inline-flex;
+    justify-content: center;
 }
 
 
